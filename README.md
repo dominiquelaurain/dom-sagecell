@@ -41,6 +41,9 @@ a =  3 and f(a) = a^2 =  9
 
 Global variable a and function f have been loaded into the cell after exec call.
 
+## Acknowledgments
+
+Thanks to github, markdown, sagemath, sagemath cell server wonderfuls products authors and maintainers.
 
 ## References
 
