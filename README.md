@@ -8,7 +8,7 @@ My python code is about euclidean geometry projects.
 
 ## Example of referencing python code in sagemath cell
 
-Creating a github account and a repository, like here, is a pre-requisite in order to have python files public on the worldwide web.
+Creating a github account and a repository, like here, is a pre-requisite to have python files public on the worldwide web.
 
 Add a file *sample1.sage* in main directory of the github repository containing :
 
