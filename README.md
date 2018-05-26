@@ -10,6 +10,7 @@ My python code is about euclidean geometry projects.
 
 Add a file sample1.sage in main directory of the github repository containing :
 
+&quot&quot&quot
 ```python
 def f(x):
   return x**2
