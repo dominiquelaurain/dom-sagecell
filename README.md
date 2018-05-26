@@ -10,13 +10,12 @@ My python code is about euclidean geometry projects.
 
 Add a file sample1.sage in main directory of the github repository containing :
 
-<b>
-"""
+```python
 def f(x):
   return x**2
   a=3
   """
-</b>
+```
 
 Click Raw button, to display file content in new browser windows and copy URL.
 
