@@ -8,7 +8,7 @@ My python code is about euclidean geometry projects.
 
 ## Example
 
-Add a file sample1.sage in main directory of the github repository containing :
+Add a file *sample1.sage* in main directory of the github repository containing :
 
 ```python
 """
@@ -18,7 +18,7 @@ def f(x):
 """
 ```
 
-Click Raw button, to display file content in new browser windows and copy URL.
+Click _Raw_ button, to display file content in new browser windows and copy URL.
 
 Reference it in the cell of the sagecell server. Type in the cell :
 
@@ -28,7 +28,7 @@ exec(eval(urllib2.urlopen(url, None).read()))
 
 print "a = ",a,"and f(a) = a^2 = ",f(a)
 
-Then click Evaluate button. You will get :
+Then click _Evaluate_ button. You will get :
 
 a =  3 and f(a) = a^2 =  9
 
