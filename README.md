@@ -6,7 +6,7 @@ This is a repository to store python code for use in the sagecell server.
 
 My python code is about euclidean geometry projects.
 
-## Example
+## Example of referencing python code in sagemath cell
 
 Add a file *sample1.sage* in main directory of the github repository containing :
 
