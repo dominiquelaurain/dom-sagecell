@@ -1,5 +1,5 @@
 """
-def g(x):
-    return 2*x
+def h(x):
+    return 2**x
     
 """
