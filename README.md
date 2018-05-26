@@ -41,6 +41,8 @@ a =  3 and f(a) = a^2 =  9
 
 Global variable a and function f have been loaded into the cell after exec call.
 
+Remark : you can add more URL for this example ... but beware of some caching (few seconds) on the www for sagecell server, when you are changing referenced source files in github.
+
 ## Acknowledgments
 
 Thanks to github, markdown, sagemath, sagemath cell server wonderful products's authors and maintainers.
