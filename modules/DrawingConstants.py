@@ -1,5 +1,5 @@
-%python
-print "DrawingConstants module loading ..."
+#
+#print "DrawingConstants module loading ..."
 
 # Constants
 nd = 5
@@ -31,5 +31,5 @@ fs3 = 14
 fs4 = 16
 fs5 = 18
 
-print "...DrawingConstants module loaded"
+#print "...DrawingConstants module loaded"
 
