@@ -43,7 +43,7 @@ Global variable a and function f have been loaded into the cell after exec call.
 
 ## Acknowledgments
 
-Thanks to github, markdown, sagemath, sagemath cell server wonderful products authors and maintainers.
+Thanks to github, markdown, sagemath, sagemath cell server wonderful products's authors and maintainers.
 
 ## References
 
