@@ -22,15 +22,20 @@ Click _Raw_ button, to display file content in new browser windows and copy URL.
 
 Reference it in the cell of the sagecell server. Type in the cell :
 
+```python
 import urllib2
 url = 'https://raw.githubusercontent.com/dominiquelaurain/dom-sagecell/master/sample1.sage'
 exec(eval(urllib2.urlopen(url, None).read()))
 
 print "a = ",a,"and f(a) = a^2 = ",f(a)
+```
+
 
 Then click _Evaluate_ button. You will get :
 
+```text
 a =  3 and f(a) = a^2 =  9
+```
 
 Global variable a and function f have been loaded into the cell after exec call.
 
