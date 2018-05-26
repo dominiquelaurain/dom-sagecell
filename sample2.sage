@@ -1,5 +1,5 @@
 """
-def h(x):
-    return x**3
+def g(x):
+    return x^3
 
 """
