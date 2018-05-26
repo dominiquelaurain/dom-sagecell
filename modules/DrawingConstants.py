@@ -1,3 +1,4 @@
+"""
 print "DrawingConstants module loading ..."
 
 # Constants
@@ -31,3 +32,4 @@ fs4 = 16
 fs5 = 18
 
 print "...DrawingConstants module loaded"
+"""
