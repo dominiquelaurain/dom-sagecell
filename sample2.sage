@@ -1,2 +1,5 @@
+"""
 def g(x):
-    return x^3
+    return 2*x
+    
+"""
